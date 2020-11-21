@@ -1,0 +1,17 @@
+{
+  "name": "berkeleyproject",
+  "version": "1.0.0",
+  "description": "Get counter from Redis, increment counter for every visit on index page",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"",
+    "start" : "node app.js"
+  },
+  "author": "Zi Qiang",
+  "license": "ISC"
+}
